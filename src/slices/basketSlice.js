@@ -4,6 +4,7 @@ const initialState = {
   items: [],
 };
 
+// update button function
 export const basketSlice = createSlice({
   name: "basket",
   initialState,
