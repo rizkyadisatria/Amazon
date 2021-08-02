@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import Header from "../components/Header"
+=======
+import Header from "../components/header"
+>>>>>>> 472a88cef82b58de32964f509c862b5c1bbd04c3
 import { CheckCircleIcon } from "@heroicons/react/solid"
 import { useRouter } from "next/router"
 
